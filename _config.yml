@@ -27,14 +27,14 @@ projects:
     projects: Presentation-on-HTTP, hacktoberfest2018,  A-to-Z-Resources-for-Students
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-   linkedin: chandra-dasari
+  linkedin: chandra-dasari
   # medium: @your_username
   # stackoverflow: your_user_id
-  # twitter: your_username
+  twitter: chan_dasari
   # youtube: your_username
 
 topics:
